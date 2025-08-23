@@ -247,13 +247,6 @@ export default function CentraHomepage() {
                   quote: "Crypto challenged traditional monetary systems.",
                   icon: "₿",
                 },
-                {
-                  era: "2024",
-                  title: "Centra",
-                  description: "Stable, transparent, and equal money designed to serve humanity",
-                  quote: "Centra completes money's evolution toward true equality and freedom.",
-                  icon: "🌟",
-                },
               ].map((item, index) => (
                 <div key={index} className="flex items-center justify-center">
                   <div className="max-w-md">
@@ -290,7 +283,7 @@ export default function CentraHomepage() {
                       <div className="flex items-center justify-center gap-4 mb-4">
                         <span className="text-4xl">🌟</span>
                         <span className="text-lg font-bold px-4 py-2 rounded-full bg-cyan-400 text-white shadow-lg">
-                          2024 - THE FUTURE
+                          2025 - THE FUTURE
                         </span>
                       </div>
                       <h3 className="text-5xl font-bold text-cyan-700 mb-4">CENTRA</h3>
