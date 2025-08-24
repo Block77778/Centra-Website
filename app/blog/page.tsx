@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { PersistentCTA } from "../../components/PersistentCTA"
+import PersistentCTA from "../../components/PersistentCTA"
 
 export default function BlogPage() {
   return (
