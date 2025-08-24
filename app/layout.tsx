@@ -49,9 +49,10 @@ export const metadata: Metadata = {
     description: "A stable, transparent future beyond fiat currency.",
     images: ["/og-image.jpg"],
   },
-  viewport: "width=device-width, initial-scale=1",
   generator: "v0.app",
 }
+
+export const viewport = "width=device-width, initial-scale=1"
 
 export default function RootLayout({
   children,
