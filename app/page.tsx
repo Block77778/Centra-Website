@@ -4,7 +4,7 @@ import { useState } from "react"
 import { Button } from "@/components/ui/button"
 import { Card, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { ArrowRight, Globe, Shield, Smartphone, Zap, Users, TrendingUp, Eye } from "lucide-react"
-import PersistentCTA from "@/components/PersistentCTA"
+import PersistentCTA from "../../components/PersistentCTA"
 import { Input } from "@/components/ui/input"
 
 export default function CentraHomepage() {
